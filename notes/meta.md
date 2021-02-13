@@ -89,6 +89,6 @@ The git repository is the source of truth, for now, for all governance documents
 
 > We hold these truths to be self-evident, that humanity share an ecosystem across time and space, that we are endowed by ourselves with certain unalienable Privileges and Responsibilities, that among these are Life, Dignity and the pursuit of Meaning.
 
-— [@dyokomizo](https://twitter.com/dyokomizo/status/1299695272763817984), on hills we will die on, willingly or not
+— [@dyokomizo](https://twitter.com/dyokomizo/status/1299696166783848448), on hills we will die on, willingly or not
 
 All documents published on BlackSwanDAO are copyrighted under a [Creative Commons Attribution Share Alike 4.0 International (CC-BY-SA-4.0) license](LICENSE.md). May these be useful for all of us that acknowledge the necessity and inevitability to die on those hills.

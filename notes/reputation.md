@@ -1,6 +1,6 @@
 # 名 (na/mei)
 
-> steering aligment via convergent instrumental goals
+> steering alignment via convergent instrumental goals
 
 ----
 
